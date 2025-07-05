@@ -11,18 +11,38 @@
   <img src="https://img.shields.io/badge/Rocky%20Linux-51A2DA?style=for-the-badge&logo=linux&logoColor=white">
 </p>
 
-<!-- ## Who am I? -->
+```python
 
- ```python
-  class WhoAmI:
-	def __init__(self):
-		user = 'Christopher Hosken'
-		title = 'Generalist TD'
-		edu = "Bournemouth University"
-		company = "Electric Theatre Collective"
-	
- ```
-## Currently Working on
+import bpy
+import hou
+import maya.cmds as mc
+import nuke as nk
+import pxr
+
+class WhoAmI():
+  def __init__(self):
+    self.name = "Christopher Hosken"
+    self.role = "Generalist TD"   
+    self.website = "cjhosken.github.io"
+    self.email = "hoskenchristopher@gmail.com"
+
+  def getEducation(self):
+    return "Bournemouth University"
+
+  def isWorking(self):
+     return [True, "Electric Theatre Collective", "R&D Intern"]
+
+  def getLocation(self):
+    return "London"
+
+  def getHobbies(self):
+    return {
+      "Sport" : ["Basketball", "Football", "Climbing", "Frisbee"],
+      "Music" : ["Guitar"]
+    }
+
+```
+## Featured Projects
 <div style="display: flex; justify-content: center; align-items: center;">
 	<a href="https://github.com/cjhosken/gravi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&theme=github_dark" /></a>
 </div>
