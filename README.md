@@ -1,14 +1,14 @@
 <h1 align="center">Christopher Hosken</h1>
 <p align="center"}>
-  <img src="https://img.shields.io/badge/Houdini-37A5CC?style=for-the-badge&logo=houdini&logoColor=white">
-  <img src="https://img.shields.io/badge/Blender-37A5CC?style=for-the-badge&logo=blender&logoColor=white">
-  <img src="https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=maya&logoColor=white">
-  <img src="https://img.shields.io/badge/Nuke-37A5CC?style=for-the-badge&logo=nuke&logoColor=white">
+  <img src="https://img.shields.io/badge/Houdini-FF6600?style=for-the-badge&logo=houdini&logoColor=white">
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/Maya-38ABDF?style=for-the-badge&logo=autodeskmaya&logoColor=white">
+  <img src="https://img.shields.io/badge/Nuke-FCB434?style=for-the-badge&logo=nuke&logoColor=white">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img src="https://img.shields.io/badge/C++-FFD43B?style=for-the-badge&logo=cpp&logoColor=blue">
+  <img src="https://img.shields.io/badge/C/C++-659AD2?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white">
-  <img src="https://img.shields.io/badge/USD-37A5CC?style=for-the-badge&logo=houdini&logoColor=white">
-  <img src="https://img.shields.io/badge/Rocky-51A2DA?style=for-the-badge&logo=rocky&logoColor=white">
+  <img src="https://img.shields.io/badge/USD-55A5D9?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/Rocky%20Linux-51A2DA?style=for-the-badge&logo=linux&logoColor=white">
 </p>
 
 <!-- ## Who am I? -->
