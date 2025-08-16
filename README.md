@@ -48,7 +48,7 @@ class WhoAmI():
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-	<a href="https://github.com/cjhosken-studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=studiotools&theme=github_dark" /></a>
+	<a href="https://github.com/cjhosken-studio"><img src="https://github-readme-stats.vercel.app/api/pin/?orginization=cjhosken-studio&repo=studiotools&theme=github_dark" /></a>
 </div>
 
 ## Github Stats
