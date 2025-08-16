@@ -47,10 +47,6 @@ class WhoAmI():
 	<a href="https://github.com/cjhosken/gravi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&theme=github_dark" /></a>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-	<a href="https://github.com/cjhosken-studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=cjhosken-studio&theme=github_dark" /></a>
-</div>
-
 ## Github Stats
 <div style="display: flex; justify-content: center; align-items: center;">
 	<img src="https://github-readme-stats.vercel.app/api?username=cjhosken&&show_icons=true&count_private=true&theme=github_dark&hide_rank=True">
