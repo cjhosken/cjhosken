@@ -57,5 +57,5 @@ class WhoAmI():
 
 ## Github Stats
 <div style="display: flex; justify-content: center; align-items: center;">
-	<img src="https://github-readme-stats.vercel.app/api?username=cjhosken&&show_icons=true&count_private=true&theme=github_dark&hide_rank=True">
+	<img src="https://github-readme-stats.vercel.app/api?username=cjhosken&&show_icons=true&count_private=true&theme=github_dark&hide_border=true">
 </div>
