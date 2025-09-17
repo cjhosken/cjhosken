@@ -12,29 +12,59 @@
 
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/christopher-hosken/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/></a>
+      <img src="https://img.shields.io/badge/linkedin-%231e394e.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href="https://cjhosken.github.io">
-      <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=html5&logoColor=white" alt="Website Badge"/></a>
+      <img src="https://img.shields.io/badge/Website-1e394e?style=for-the-badge" alt="Website Badge"/></a>
+    <a href="">
+      <img src="https://img.shields.io/badge/Gmail-1e394e?style=for-the-badge"/>
+    </a>
   </div>
   </header>
   <body>
 
 ## 👋 About Me
   - 🎓 Currently studying **Computer Animation Technical Arts** at Bournemouth University  
-  - 🎨 Interested in **technical direction, tools development, and real-time workflows**  
-  - 🛠️ Passionate about combining **art and code** to solve creative challenges  
-  - 📍 Based in the UK
-
+  - 🎨 Interested in **artificial intelligence, web based applications, and Pixar USD ecosystems**  
+  - 📍 Based in **Bournemouth, UK**
+  - 💻 **Looking for work (for July, 2026)**
 
 
   ## 🛠️ Software & Tools
   <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Maya-00BFFF?logo=autodesk&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Houdini-FF4713?logo=houdini&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Unreal-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Houdini-%23007ACC?logo=houdini&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Blender-%23007ACC?logo=blender&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Maya-%23007ACC?logo=autodesk&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Nuke-%23007ACC??logo=foundry&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Adobe-%23007ACC??logo=adobe&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Unreal-%23007ACC?logo=unrealengine&logoColor=white&style=for-the-badge" />
+  </p>
+  <br/>
+   <p align="center">
+    <img src="https://img.shields.io/badge/python-%23E34F26?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-%23E34F26?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/C-%23E34F26?logo=c&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/rust-%23E34F26.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Qt-%23E34F26.svg?style=for-the-badge&logo=Qt&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenGL-%23E34F26.svg?style=for-the-badge&logo=opengl&logoColor=white" />
+    <img src="https://img.shields.io/badge/USD-%23E34F26?&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Vite-%23E34F26?logo=unrealengine&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/typescript-%23E34F26.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css3-%23E34F26.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-%23E34F26.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/kotlin-%23E34F26.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+    <img src="https://img.shields.io/badge/dart-%23E34F26.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  </p>
+  <br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Red%20Hat-%234D4D4D?style=for-the-badge&logo=redhat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Rocky%20Linux-%234D4D4D?style=for-the-badge&logo=rockylinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ubuntu-%234D4D4D?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/bash_script-%234D4D4D.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows%2011-%234D4D4D.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android-%234D4D4D?style=for-the-badge&logo=android&logoColor=white"/>
   </p>
 
   ## 🚀 Featured Projects
@@ -55,19 +85,20 @@
   </div>
 </div>
 
-
-
-  ## 📊 GitHub Stats
+  ## 📊 Stats & Work
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=cjhosken&show_icons=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjhosken&theme=github_dark&layout=donut&hide_border=true"/>
   </p>
 
-
   <div align="center">
-    <img src="./images/etc.png" width="10%"/>
-    <img src="./images/ncca.png" width="20%"/>
+    <a href="https://electrictheatre.tv/electric/work-category-featured" target="_blank">  
+      <img src="./images/etc.png" width="10%"/>
+    </a>
+    <a href="https://www.bournemouth.ac.uk/about/our-faculties/faculty-media-communication/national-centre-computer-animation" target="_blank">
+      <img src="./images/ncca.png" width="20%"/>
+    </a>
   </div>
 
   </body>
