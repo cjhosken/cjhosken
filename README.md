@@ -73,33 +73,16 @@
 
 
 <div>
-  <a href="https://cjhosken.github.io/blog/gravi/"><img align="center" width="421em" src="images/gravi.gif"/></a>
+  <a href="https://cjhosken.github.io/blog/gravi/"><img align="center" width="421em" src="images/gravi.gif"
+  style="border-radius: 20px;"/></a>
 
-  <a href="https://github.com/cjhosken/deadshot"><img align="center" width="421em" src="images/deadshot.png"/></a>
+  <a href="https://github.com/cjhosken/deadshot"><img align="center" width="421em" src="images/deadshot.png" style="border-radius: 20px;"/></a>
 
-  <a href="https://github.com/cjhosken/gravi"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&theme=github_dark&hide_border=true"/></a>
+  <a href="https://github.com/cjhosken/gravi"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&border_radius=20&theme=github_dark&hide_border=true"/></a>
 
-  <a href="https://github.com/cjhosken/deadshot"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=deadshot&theme=github_dark&hide_border=true"/></a>
+  <a href="https://github.com/cjhosken/deadshot"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=deadshot&border_radius=20&theme=github_dark&hide_border=true"/></a>
 
 </div>
-
-<table border="0" style="border-collapse: collapse; border: none;">
-  <tr> 
-    <td align="center" width="50%"> 
-      <a href="https://github.com/cjhosken/gravi" width="100%"> 
-        <img src="images/gravi.gif?raw=true"/> 
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&theme=github_dark&hide_border=true" width="100%"/>
-      </a>
-    </td> 
-    <td align="center" width="50%"> 
-      <a href="https://github.com/cjhosken/deadshot" width="100%"> 
-        <img src="images/deadshot.png"/> 
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=deadshot&theme=github_dark&hide_border=true" width="100%"/> 
-      </a>
-    </td> 
-  </tr>
-</table>
-
 
 ## 📊 Stats & Work
 
