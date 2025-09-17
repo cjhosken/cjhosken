@@ -1,3 +1,5 @@
+<img src="./images/cover.gif" style="width: 100%; height: 200px; object-fit: cover;"/>
+
 <h1 align="center">Christopher Hosken</h1>
 
 <div id="badges" align="center">
