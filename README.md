@@ -81,7 +81,7 @@
       </a>
       <br/>
       <a href="https://github.com/cjhosken/gravi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&theme=github_dark&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&theme=github_dark" />
       </a>
     </td>
 
@@ -92,7 +92,7 @@
       </a>
       <br/>
       <a href="https://github.com/cjhosken/deadshot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=deadshot&theme=github_dark&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=deadshot&theme=github_dark" />
       </a>
     </td>
   </tr>
