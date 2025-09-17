@@ -1,48 +1,17 @@
-<h1 align="center">Christopher Hosken</h1>
-<p align="center"}>
-  <img src="https://img.shields.io/badge/Houdini-FF6600?style=for-the-badge&logo=houdini&logoColor=white">
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
-  <img src="https://img.shields.io/badge/Maya-38ABDF?style=for-the-badge&logo=autodeskmaya&logoColor=white">
-  <img src="https://img.shields.io/badge/Nuke-FCB434?style=for-the-badge&logo=nuke&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img src="https://img.shields.io/badge/C/C++-659AD2?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white">
-  <img src="https://img.shields.io/badge/USD-55A5D9?style=for-the-badge&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/React%20Typescript-51A2DA?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Vite-51A2DA?style=for-the-badge&logo=vite&logoColor=white">
+<p align="center" style="font-size: 4em; font-weight: bold;">Christopher Hosken</p>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/christopher-hosken/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://cjhosken.github.io">
+  <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=html&logoColor=white" alt="Website Badge"/>
+  </a>
+</div>
+
+<p align="center" style="margin: 2em;">
+Hey! I'm Christopher Hosken, a Generlist TD currently studying Computer Animation Technical Arts at Bournemouth University.
 </p>
 
-```python
-
-import bpy
-import hou
-import maya.cmds as mc
-import nuke as nk
-import pxr
-
-class WhoAmI():
-  def __init__(self):
-    self.name = "Christopher Hosken"
-    self.role = "Generalist TD"   
-    self.website = "cjhosken.github.io"
-    self.email = "hoskenchristopher@gmail.com"
-
-  def getEducation(self):
-    return ["Bournemouth University", "Computer Animation Technical Arts"]
-
-  def isWorking(self):
-     return [False, "", ""]
-
-  def getLocation(self):
-    return "Bournemouth"
-
-  def getHobbies(self):
-    return {
-      "Sport" : ["Basketball", "Football", "Climbing", "Frisbee"],
-      "Music" : ["Guitar"]
-    }
-
-```
 ## Featured Projects
 <div style="display: flex; justify-content: center; align-items: center; gap: 1em;">
   <a href="https://github.com/cjhosken/gravi" style="border-radius: 16px; box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.25); transition: transform ease 0.35s; width:300px;">
