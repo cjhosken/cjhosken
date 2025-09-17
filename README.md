@@ -2,7 +2,7 @@
 
 <html width="100%" height="100%">
   <header>
-  <img src="./images/cover.gif" style="width: 100%; height: 200px; object-fit: cover;"/>
+  <img src="./images/cover.gif" style="width: 100vw; height: 200px; object-fit: cover;"/>
 
 <h1 align="center">
   Christopher Hosken
@@ -23,8 +23,8 @@
   <body>
 
 ## 👋 About Me
-  - 🎓 Currently studying **Computer Animation Technical Arts** at Bournemouth University  
-  - 🎨 Interested in **artificial intelligence, web based applications, and Pixar USD ecosystems**  
+  - 🎓 Currently studying **Computer Animation Technical Arts** at **Bournemouth University**
+  - 🎨 Interested in **Open Source, artificial intelligence, web applications, and Pixar USD ecosystems**  
   - 📍 Based in **Bournemouth, UK**
   - 💻 **Looking for work (for July, 2026)**
 
@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/Qt-%23E34F26.svg?style=for-the-badge&logo=Qt&logoColor=white" />
     <img src="https://img.shields.io/badge/OpenGL-%23E34F26.svg?style=for-the-badge&logo=opengl&logoColor=white" />
     <img src="https://img.shields.io/badge/USD-%23E34F26?&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Vite-%23E34F26?logo=unrealengine&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Vite-%23E34F26?logo=vite&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/typescript-%23E34F26.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css3-%23E34F26.svg?style=for-the-badge&logo=css3&logoColor=white" />
