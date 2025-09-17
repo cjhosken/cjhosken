@@ -4,7 +4,11 @@
   <header>
   <img src="./images/cover.gif" style="width: 100%; height: 200px; object-fit: cover;"/>
 
-  <h1 align="center">Christopher Hosken</h1>
+<h1 align="center">
+  Christopher Hosken
+</h1>
+
+
 
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/christopher-hosken/">
@@ -19,7 +23,9 @@
   - 🎓 Currently studying **Computer Animation Technical Arts** at Bournemouth University  
   - 🎨 Interested in **technical direction, tools development, and real-time workflows**  
   - 🛠️ Passionate about combining **art and code** to solve creative challenges  
-  - 📍 Based in the UK  
+  - 📍 Based in the UK
+
+
 
   ## 🛠️ Software & Tools
   <p align="center">
@@ -57,6 +63,12 @@
     <img src="https://github-readme-stats.vercel.app/api?username=cjhosken&show_icons=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjhosken&theme=github_dark&layout=donut&hide_border=true"/>
   </p>
+
+
+  <div align="center">
+    <img src="./images/etc.png" width="10%"/>
+    <img src="./images/ncca.png" width="20%"/>
+  </div>
 
   </body>
 </html>
