@@ -2,7 +2,7 @@
 
 <html width="100%" height="100%">
   <header>
-  <img src="./images/cover.gif" width="100%">
+  <img src="images/cover.gif" width="100%">
 
 <h1 align="center">
   Christopher Hosken | Generalist TD
@@ -73,13 +73,13 @@
   <tr> 
     <td align="center" width="50%"> 
       <a href="https://github.com/cjhosken/gravi" width="100%"> 
-        <img src="./images/gravi.gif" width="100%" alt="Gravi preview"/> 
+        <img src="images/gravi.gif" width="100%"/> 
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&theme=github_dark&hide_border=true" width="100%"/>
       </a>
     </td> 
     <td align="center" width="50%"> 
       <a href="https://github.com/cjhosken/deadshot" width="100%"> 
-        <img src="./images/deadshot.png" width="100%" alt="Deadshot preview"/> 
+        <img src="images/deadshot.png" width="100%"/> 
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=deadshot&theme=github_dark&hide_border=true" width="100%"/> 
       </a>
     </td> 
