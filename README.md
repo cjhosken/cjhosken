@@ -87,7 +87,7 @@
 
   <!-- Deadshot -->
   <td align="center" width="50%">
-    <a href="https://github.com/cjhosken/deadshot">
+    <a href="https://cjhosken.github.io/deadshot">
         <img src="images/deadshot.png" width="400" alt="Deadshot preview"/>
       </a>
       <br/>
