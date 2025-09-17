@@ -2,7 +2,7 @@
 
 <html width="100%" height="100%">
   <header>
-  <img src="./images/cover.gif" style="width: 100vw; height: 200px; object-fit: cover;"/>
+  <img src="./images/cover.gif" width="100%">
 
 <h1 align="center">
   Christopher Hosken | Generalist TD
