@@ -69,7 +69,7 @@
 
   ## 🚀 Featured Projects
 
-<table border="0">
+<table border="0" style="border-collapse: collapse; border: none;">
   <tr> 
     <td align="center" width="50%"> 
       <a href="https://github.com/cjhosken/gravi" width="100%"> 
