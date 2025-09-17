@@ -5,7 +5,7 @@
   <img src="./images/cover.gif" style="width: 100vw; height: 200px; object-fit: cover;"/>
 
 <h1 align="center">
-  Christopher Hosken
+  Christopher Hosken | Generalist TD
 </h1>
 
 
