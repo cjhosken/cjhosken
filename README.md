@@ -11,11 +11,11 @@
 
 
   <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/christopher-hosken/">
+    <a href="https://www.linkedin.com/in/christopher-hosken/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%231e394e.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-    <a href="https://cjhosken.github.io">
+    <a href="https://cjhosken.github.io" targe="_blank">
       <img src="https://img.shields.io/badge/Website-1e394e?style=for-the-badge" alt="Website Badge"/></a>
-    <a href="">
+    <a href="mailto:hoskenchristopher@gmail.com" taget="_blank">
       <img src="https://img.shields.io/badge/Gmail-1e394e?style=for-the-badge"/>
     </a>
   </div>
@@ -69,37 +69,35 @@
 
   ## 🚀 Featured Projects
 
-<div style="display: flex; gap: 1em; width: 50%;">
-  <div style="text-align: center; width:100px;">
-    <a href="https://github.com/cjhosken/gravi">
-      <img src="./images/gravi.jpg" width="100%" alt="Gravi preview"/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&theme=github_dark&hide_border=true" width="100%"/>
-    </a>
-  </div>
+<table border="0">
+  <tr> 
+    <td align="center" width="50%"> 
+      <a href="https://github.com/cjhosken/gravi" width="100%"> 
+        <img src="./images/gravi.jpg" width="100%" alt="Gravi preview"/> 
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&theme=github_dark&hide_border=true" width="100%"/>
+      </a>
+    </td> 
+    <td align="center" width="50%"> 
+      <a href="https://github.com/cjhosken/deadshot" width="100%"> 
+        <img src="./images/deadshot.png" width="100%" alt="Deadshot preview"/> 
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=deadshot&theme=github_dark&hide_border=true" width="100%"/> 
+      </a>
+    </td> 
+  </tr>
+</table>
 
-  <div style="text-align: center; width: 100px;">
-    <a href="https://github.com/cjhosken/deadshot">
-      <img src="./images/deadshot.png" width="100%" alt="Deadshot preview"/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=deadshot&theme=github_dark&hide_border=true" width="100%"/>
-    </a>
-  </div>
+
+## 📊 Stats & Work
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cjhosken&show_icons=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjhosken&theme=github_dark&layout=donut&hide_border=true"/>
+</p>
+
+<div align="center">
+  <a href="https://electrictheatre.tv/electric/work-category-featured" target="_blank">  <img src="./images/etc.png" width="10%"/></a>
+  <a href="https://www.bournemouth.ac.uk/about/our-faculties/faculty-media-communication/national-centre-computer-animation" target="_blank"><img src="./images/ncca.png" width="20%"/></a>
 </div>
 
-  ## 📊 Stats & Work
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cjhosken&show_icons=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjhosken&theme=github_dark&layout=donut&hide_border=true"/>
-  </p>
-
-  <div align="center">
-    <a href="https://electrictheatre.tv/electric/work-category-featured" target="_blank">  
-      <img src="./images/etc.png" width="10%"/>
-    </a>
-    <a href="https://www.bournemouth.ac.uk/about/our-faculties/faculty-media-communication/national-centre-computer-animation" target="_blank">
-      <img src="./images/ncca.png" width="20%"/>
-    </a>
-  </div>
-
-  </body>
+</body>
 </html>
