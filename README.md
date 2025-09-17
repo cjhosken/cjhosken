@@ -69,6 +69,20 @@
 
   ## 🚀 Featured Projects
 
+
+
+
+<div>
+  <a href="https://cjhosken.github.io/blog/gravi/"><img align="center" width="421em" src="images/gravi.gif"/></a>
+
+  <a href="https://github.com/cjhosken/deadshot"><img align="center" width="421em" src="images/deadshot.png"/></a>
+
+  <a href="https://github.com/cjhosken/gravi"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&theme=github_dark&hide_border=true"/></a>
+
+  <a href="https://github.com/cjhosken/deadshot"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=deadshot&theme=github_dark&hide_border=true"/></a>
+
+</div>
+
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr> 
     <td align="center" width="50%"> 
