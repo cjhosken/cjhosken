@@ -1,8 +1,8 @@
 <!Doctype html>
 
 <html width="100%" height="100%">
-
-  <img src="./images/cover.gif" style="width: 100vw; height: 200px; object-fit: cover;"/>
+  <header>
+  <img src="./images/cover.gif" style="width: 100%; height: 200px; object-fit: cover;"/>
 
   <h1 align="center">Christopher Hosken</h1>
 
@@ -12,9 +12,10 @@
     <a href="https://cjhosken.github.io">
       <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=html5&logoColor=white" alt="Website Badge"/></a>
   </div>
+  </header>
+  <body>
 
-
-  ## 👋 About Me
+## 👋 About Me
   - 🎓 Currently studying **Computer Animation Technical Arts** at Bournemouth University  
   - 🎨 Interested in **technical direction, tools development, and real-time workflows**  
   - 🛠️ Passionate about combining **art and code** to solve creative challenges  
@@ -35,16 +36,16 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/cjhosken/gravi">
-          <img src="./images/gravi.jpg" width="300px" alt="Gravi preview"/><br/>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&theme=github_dark&hide_border=true"/>
-        </a>
+      <a href="https://github.com/cjhosken/gravi" width="100%">
+      <img src="./images/gravi.jpg" width="100%" alt="Gravi preview"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&theme=github_dark&hide_border=true" width="100%"/>
+      </a>
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/cjhosken/deadshot">
-          <img src="./images/deadshot.png" width="300px" alt="Deadshot preview"/><br/>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=deadshot&theme=github_dark&hide_border=true"/>
-        </a>
+      <a href="https://github.com/cjhosken/deadshot" width="100%">
+      <img src="./images/deadshot.png" width="100%" alt="Deadshot preview"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=deadshot&theme=github_dark&hide_border=true" width="100%"/>
+      </a>
       </td>
     </tr>
   </table>
@@ -57,4 +58,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjhosken&theme=github_dark&layout=donut&hide_border=true"/>
   </p>
 
+  </body>
 </html>
