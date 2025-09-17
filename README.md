@@ -2,10 +2,9 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/christopher-hosken/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
-  </a><a href="https://cjhosken.github.io">
-    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=html5&logoColor=white" alt="Website Badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://cjhosken.github.io">
+    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=html5&logoColor=white" alt="Website Badge"/></a>
 </div>
 
 
