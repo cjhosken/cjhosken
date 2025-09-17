@@ -2,7 +2,7 @@
 
 <html width="100%" height="100%">
   <header>
-  <img src="images/cover.gif" width="100%">
+  <img src="images/banner.gif" width="100%">
 
 <h1 align="center">
   Christopher Hosken | Generalist TD
@@ -26,7 +26,7 @@
   - 🎓 Currently studying **Computer Animation Technical Arts** at **Bournemouth University**
   - 🎨 Interested in **Open Source, artificial intelligence, web applications, and Pixar USD ecosystems**  
   - 📍 Based in **Bournemouth, UK**
-  - 💻 **Looking for work (for July, 2026)**
+  - 💻 **Looking for Pipeline, FX, RnD, or TD Roles (for July, 2026)**
 
 
   ## 🛠️ Software & Tools
