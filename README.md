@@ -45,11 +45,11 @@ class WhoAmI():
 ```
 ## Featured Projects
 <div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://github.com/cjhosken/gravi" style="margin: 1em; display:flex; flex-direction:column;border-radius: 16px; box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.25); transition: transform ease 0.35s; width:100%;">
+  <a href="https://github.com/cjhosken/gravi" style="margin: 1em; display:flex; flex-direction:column;border-radius: 16px; box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.25); transition: transform ease 0.35s; width:50%;">
     <img src="./images/gravi.jpg" style="border-radius: 16px 16px 0px 0px; width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&theme=github_dark&hide_border=true&border_radius=0" style="border-radius: 0px 0px 16px 16px; width:100%;"/>
   </a>
-  <a href="https://github.com/cjhosken/deadshot" style="margin: 1em; display:flex; flex-direction:column;border-radius: 16px; box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.25); transition: transform ease 0.35s; width:100%;">
+  <a href="https://github.com/cjhosken/deadshot" style="margin: 1em; display:flex; flex-direction:column;border-radius: 16px; box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.25); transition: transform ease 0.35s; width:50%;">
     <img src="./images/deadshot.png" style="border-radius: 16px 16px 0px 0px; width:100%;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=deadshot&theme=github_dark&hide_border=true&border_radius=0" style="border-radius: 0px 0px 16px 16px; width:100%;"/>
   </a>
