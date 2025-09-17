@@ -73,13 +73,13 @@
   <tr> 
     <td align="center" width="50%"> 
       <a href="https://github.com/cjhosken/gravi" width="100%"> 
-        <img src="images/gravi.gif" width="100%"/> 
+        <img src="images/gravi.gif"/> 
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&theme=github_dark&hide_border=true" width="100%"/>
       </a>
     </td> 
     <td align="center" width="50%"> 
       <a href="https://github.com/cjhosken/deadshot" width="100%"> 
-        <img src="images/deadshot.png" width="100%"/> 
+        <img src="images/deadshot.png"/> 
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=deadshot&theme=github_dark&hide_border=true" width="100%"/> 
       </a>
     </td> 
