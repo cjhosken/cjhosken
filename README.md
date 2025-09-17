@@ -45,47 +45,17 @@ class WhoAmI():
 ```
 ## Featured Projects
 <div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://github.com/cjhosken/gravi" class="project">
-    <img class="cover" src="./images/gravi.jpg">
-    <img class="item" src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&theme=github_dark&hide_border=true&border_radius=0" />
+  <a href="https://github.com/cjhosken/gravi" style="margin: 1em; display:flex; flex-direction:column;border-radius: 16px; box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.25); transition: transform ease 0.35s; width:100%;">
+    <img src="./images/gravi.jpg" style="border-radius: 16px 16px 0px 0px; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&theme=github_dark&hide_border=true&border_radius=0" style="border-radius: 0px 0px 16px 16px; width:100%;"/>
   </a>
-  <a href="https://github.com/cjhosken/deadshot" class="project">
-    <img class="cover" src="./images/deadshot.png">
-    <img class="item" src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=deadshot&theme=github_dark&hide_border=true&border_radius=0" />
+  <a href="https://github.com/cjhosken/deadshot" style="margin: 1em; display:flex; flex-direction:column;border-radius: 16px; box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.25); transition: transform ease 0.35s; width:100%;">
+    <img src="./images/deadshot.png" style="border-radius: 16px 16px 0px 0px; width:100%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=deadshot&theme=github_dark&hide_border=true&border_radius=0" style="border-radius: 0px 0px 16px 16px; width:100%;"/>
   </a>
 </div>
 
 ## Github Stats
 <div style="display: flex; justify-content: center; align-items: center;">
-	<img src="https://github-readme-stats.vercel.app/api?/username=cjhosken&&show_icons=true&count_private=true&theme=github_dark&hide_rank=True">
+	<img src="https://github-readme-stats.vercel.app/api?username=cjhosken&&show_icons=true&count_private=true&theme=github_dark&hide_rank=True">
 </div>
-
-
-<style>
-  .project {
-    margin: 1em;
-    display: flex;
-    flex-direction:column;
-    border-radius: 16px;
-    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.25);
-    transition: transform ease 0.35s;
-  }
-
-  .project:hover {
-    transform: scale(105%);
-  }
-
-  .project img {
-    width:500px;
-  }
-
-  .cover {
-    border-radius: 16px 16px 0px 0px;
-  }
-
-  .item {
-    border-radius: 0px 0px 16px 16px;
-  }
-
-
-</style>
