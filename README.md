@@ -40,14 +40,14 @@
   ## 🚀 Featured Projects
 
 <div style="display: flex; gap: 1em;">
-  <div style="text-align: center; width:50%;">
+  <div style="text-align: center; width:100px;">
     <a href="https://github.com/cjhosken/gravi">
       <img src="./images/gravi.jpg" width="100%" alt="Gravi preview"/>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&theme=github_dark&hide_border=true" width="100%"/>
     </a>
   </div>
 
-  <div style="text-align: center; width: 50%;">
+  <div style="text-align: center; width: 100px;">
     <a href="https://github.com/cjhosken/deadshot">
       <img src="./images/deadshot.png" width="100%" alt="Deadshot preview"/>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=deadshot&theme=github_dark&hide_border=true" width="100%"/>
