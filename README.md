@@ -39,7 +39,7 @@
 
   ## 🚀 Featured Projects
 
-<div style="display: flex; gap: 1em;">
+<div style="display: flex; gap: 1em; width: 50%;">
   <div style="text-align: center; width:100px;">
     <a href="https://github.com/cjhosken/gravi">
       <img src="./images/gravi.jpg" width="100%" alt="Gravi preview"/>
