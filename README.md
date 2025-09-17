@@ -50,8 +50,8 @@
     <img src="https://img.shields.io/badge/USD-%23E34F26?&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Vite-%23E34F26?logo=vite&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/typescript-%23E34F26.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/css3-%23E34F26.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/javascript-%23E34F26.svg?style=for-the-badge&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/kotlin-%23E34F26.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
     <img src="https://img.shields.io/badge/dart-%23E34F26.svg?style=for-the-badge&logo=dart&logoColor=white" />
