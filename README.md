@@ -3,19 +3,28 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/christopher-hosken/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://cjhosken.github.io">
+  </a><a href="https://cjhosken.github.io">
     <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=html5&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
 
----
 
+## 👋 About Me
+- 🎓 Currently studying **Computer Animation Technical Arts** at Bournemouth University  
+- 🎨 Interested in **technical direction, tools development, and real-time workflows**  
+- 🛠️ Passionate about combining **art and code** to solve creative challenges  
+- 📍 Based in the UK  
+
+## 🛠️ Software & Tools
 <p align="center">
-Hey! I'm Christopher Hosken, a Generalist TD currently studying Computer Animation Technical Arts at Bournemouth University.
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Maya-00BFFF?logo=autodesk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Houdini-FF4713?logo=houdini&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unreal-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 </p>
 
----
 
 ## 🚀 Featured Projects
 
@@ -36,7 +45,6 @@ Hey! I'm Christopher Hosken, a Generalist TD currently studying Computer Animati
   </tr>
 </table>
 
----
 
 ## 📊 GitHub Stats
 
