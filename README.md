@@ -76,6 +76,7 @@
 <div align="center">
   <a href="https://cjhosken.github.io/blog/gravi/"><img align="center" width="421em" src="images/gravi.gif"
   style="border-radius: 20px;"/></a>
+  
   <a href="https://github.com/cjhosken/gravi"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&border_radius=20&theme=github_dark&hide_border=true"/></a>
 </div>
 
@@ -84,7 +85,6 @@
 
   <a href="https://github.com/cjhosken/deadshot"><img align="center" width="421em" src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=deadshot&border_radius=20&theme=github_dark&hide_border=true"/></a>
 </div>
-
 </div>
 
 ## 📊 Stats & Work
