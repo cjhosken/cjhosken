@@ -26,7 +26,7 @@
   - 🎓 Currently studying **Computer Animation Technical Arts** at **Bournemouth University**
   - 🎨 Interested in **Open Source, artificial intelligence, web applications, and Pixar USD ecosystems**  
   - 📍 Based in **Bournemouth, UK**
-  - 💻 **Looking for Pipeline, FX, RnD, or TD Roles (for July, 2026)**
+  - 💻 **Looking for Pipeline, FX, RnD, or TD Roles in UK / France (for July, 2026)**
 
 
   ## 🛠️ Software & Tools
