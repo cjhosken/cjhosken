@@ -81,7 +81,7 @@
       </a>
       <br/>
       <a href="https://github.com/cjhosken/gravi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=gravi&theme=github_dark&hide_border=true" />
+        <img src="https://cjhosken-readmestats.vercel.app/api/pin/?username=cjhosken&repo=gravi&theme=github_dark&hide_border=true" />
       </a>
     </td>
 
@@ -92,7 +92,7 @@
       </a>
       <br/>
       <a href="https://github.com/cjhosken/deadshot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cjhosken&repo=deadshot&theme=github_dark&hide_border=true" />
+        <img src="https://cjhosken-readmestats.vercel.app/api/pin/?username=cjhosken&repo=deadshot&theme=github_dark&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -103,8 +103,8 @@
 ## 📊 Statistics & Work
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cjhosken&show_icons=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjhosken&theme=github_dark&layout=donut&hide_border=true"/>
+  <img src="https://cjhosken-readmestats.vercel.app/api?username=cjhosken&show_icons=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img src="https://cjhosken-readmestats.vercel.app/api/top-langs/?username=cjhosken&theme=github_dark&layout=donut&hide_border=true"/>
 </p>
 
 <div align="center">
