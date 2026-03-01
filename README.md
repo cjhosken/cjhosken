@@ -77,7 +77,7 @@
     <!-- Gravi -->
     <td align="center" width="50%">
       <a href="https://cjhosken.github.io/blog/gravi/">
-        <img src="images/gravi.gif" width="400" alt="Gravi preview"/>
+        <img src="images/gravi.gif" width="50%" alt="Gravi preview"/>
       </a>
       <br/>
       <a href="https://github.com/cjhosken/gravi">
@@ -88,7 +88,7 @@
   <!-- Deadshot -->
   <td align="center" width="50%">
     <a href="https://cjhosken.github.io/deadshot">
-        <img src="images/deadshot.png" width="400" alt="Deadshot preview"/>
+        <img src="images/deadshot.jpg" width="50%" alt="Deadshot preview"/>
       </a>
       <br/>
       <a href="https://github.com/cjhosken/deadshot">
